@@ -9,5 +9,12 @@ Summary:
 - Adaptive Moment Estimation, 'adam', to optimize the loss function by minimizing the loss measured by mean_squared_error
 - Model Accuracy: RMSE of less than 5
 
-- Conducted Exploratory Data Analysis on 9 major tech companies (e.g., AAPL, GOOGL, NVDA), visualizing over 13,000 stock entries to uncover price-volume trends and inform model input features.
+
+Exploratory Data Analysis on 9 major tech companies: 
+<img width="930" height="485" alt="image" src="https://github.com/user-attachments/assets/498e84ed-9e0b-4a58-a979-17aa0d6acd3e" />
+
 <img width="930" height="485" alt="image" src="https://github.com/user-attachments/assets/4e8ed422-0bb7-44ff-99c8-071dfcea1f43" />
+
+The actual and prediction for Cisco stock prices:
+<img width="888" height="451" alt="image" src="https://github.com/user-attachments/assets/c0e1a101-25fd-4107-a88b-ab57fcf2858f" />
+
